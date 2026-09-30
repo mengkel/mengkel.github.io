@@ -5,6 +5,11 @@
 # ============================================================================
 # Hugo Build Artifacts
 # ============================================================================
+##extra added
+/public/
+/resources/_gen/
+/.hugo_build.lock
+.DS_Store
 
 # Generated site output
 public/

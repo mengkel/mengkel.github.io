@@ -1,0 +1,5 @@
+{{ with resources.Get "img/talks.png" }}
+<figure class="presentation-photo">
+  <img src="{{ .RelPermalink }}" alt="Mengke Li giving a presentation" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+</figure>
+{{ end }}

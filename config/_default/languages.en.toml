@@ -1,0 +1,18 @@
+title = "Mengke Li"
+label = "English"
+locale = "en"
+contentDir = "content"
+
+[params]
+  [params.author]
+    name = "Mengke Li"
+    image = "img/Mengke_Li.png"
+    headline = "N3AS Postdoc Fellow | Nuclear Astrophysics | UC Berkeley"
+    bio = "I am working on theoretical nuclear astrophysics. I received my PhD from Clemson University in Dec 2023, supervised by Prof. Bradley Meyer. As a Postdoc Fellow, I am mentored by Rebecca Surman (Notre Dame), Dan Kasen (UC Berkeley), and Gail McLaughlin (NC State)."
+    links = [
+      { email = "mailto:mengkeli95@gmail.com" },
+      { github = "https://github.com/mengkel" },
+      { google-scholar = "https://scholar.google.com/citations?user=sRYmqRwAAAAJ&hl=en" },
+      { linkedin = "https://www.linkedin.com/in/mengke-li-a00b921b8/" },
+      { orcid = "https://orcid.org/0000-0002-6373-7494" },
+    ]
