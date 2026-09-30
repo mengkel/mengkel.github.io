@@ -1,0 +1,30 @@
+# Congo theme parameters
+# Docs: https://jpanther.github.io/congo/docs/configuration/
+
+colorScheme = "cherry"           # ocean, fire, forest, slate, congo, etc.
+defaultAppearance = "dark"     # light or dark
+autoSwitchAppearance = true     # follows system preference
+
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+  layout = "profile"            # profile layout shows avatar + bio on home
+  showRecent = false
+  recentLimit = 5
+
+[article]
+  showDate = true
+  showAuthor = false
+  showReadingTime = true
+  showTableOfContents = true
+
+[list]
+  showSummary = true
+  groupByYear = false
+
+[sitemap]
+  excludedKinds = []
+
+[taxonomy]
+  showTermCount = true

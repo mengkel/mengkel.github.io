@@ -1,0 +1,8 @@
+{{ with resources.Get (.Get "src") }}
+<figure class="research-interest-figure">
+  <div class="research-interest-image">
+    <img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+  </div>
+  {{ with $.Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+{{ end }}

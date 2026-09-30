@@ -1,8 +1,5 @@
-module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
+module github.com/mengkel/mengkel.github.io
 
-go 1.19
+go 1.27.0
 
-require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.6.1
-)
+require github.com/jpanther/congo/v2 v2.14.0 // indirect
