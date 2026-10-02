@@ -18,8 +18,21 @@ showAuthor: false
 
 ## Talks
 
+
+- **2026 Aug** <span class="presentation-type presentation-invited">Invited</span> – <strong>Low Energy Community Meeting</strong>, <span class="presentation-location">Argonne National Lab, IL</span>  
+	*Shaping the Third r-Process Peak: The Role of Nuclear data around the N=126 Shell Closure.*
+- **2026 May** <span class="presentation-type presentation-invited">Invited</span> – <strong>Astrophysics with Radioactive Nuclei</strong>, <span class="presentation-location">Traverse City, MI</span>  
+	*Shaping the Third r-Process Peak: The Role of Nuclear Masses around the N=126 Shell Closure.*
+- **2026 May** <span class="presentation-type presentation-invited">Invited</span> – <strong>Facility for Rare Isotope Beams (FRIB)</strong>, <span class="presentation-location">East Lansing, MI</span>  
+	*Nuclear Masses in Astrophysics for the Next 25 Years.*
+- **2026 Mar** <span class="presentation-type presentation-invited">Invited</span> – <strong>Institute of Nuclear Theory (INT), Rising Researchers Seminar Series</strong>, <span class="presentation-location">Seattle, WA</span>  
+	*Neutron Economy and Freeze-out Dynamics in late time cold r-process.*
+- **2026 Feb** <span class="presentation-type presentation-invited">Invited</span> – <strong>Texas A&amp;M University</strong>, <span class="presentation-location">College Station, TX</span>  
+	*From Mergers to Matter: Connecting Microscopic Nuclear Physics to Multi-Messenger Observations.*
+- **2025 Dec** <span class="presentation-type presentation-invited">Invited</span> – <strong>Michigan State University</strong>, <span class="presentation-location">East Lansing, MI</span>  
+	*From Nuclei to Stars: Connecting Nuclear Physics to Heavy Element Formation.*
 - **2025 Oct** <span class="presentation-type presentation-invited">Invited</span> – <strong>Division of Nuclear Physics (DNP), APS</strong>, <span class="presentation-location">Chicago, IL</span>  
-	*Machine Learning for the Properties of Exotic Nuclei*
+	*Machine Learning for the Properties of Exotic Nuclei*	
 - **2025 Oct** <span class="presentation-type presentation-invited">Invited</span> – <strong>Division of Nuclear Physics (DNP), APS</strong>, <span class="presentation-location">Chicago, IL</span>  
 	*Machine Learning Nuclear Masses for the Astrophysical r-process*
 - **2025 Oct** <span class="presentation-type presentation-invited">Invited</span> – <strong>Triangle Nuclear Theory Colloquium, North Carolina State University</strong>, <span class="presentation-location">Raleigh, NC</span>  
